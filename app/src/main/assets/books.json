@@ -1,0 +1,67 @@
+[
+	{
+		"id": "0",
+		"name": "The Way of Kings",
+		"description": "Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless ground. Cities are built only where the topography offers shelter."
+	},
+	{
+		"id": "1",
+		"name": "Words of Radiance",
+		"description": "Expected by his enemies to die the miserable death of a military slave, Kaladin survived to be given command of the royal bodyguards, a controversial first for a low-status \"darkeyes.\" Now he must protect the king and Dalinar from every common peril as well as the distinctly uncommon threat of the Assassin, all while secretly struggling to master remarkable new powers that are somehow linked to his honorspren, Syl."
+	},
+	{
+		"id": "2",
+		"name": "Oathbringer",
+		"description": "In Oathbringer, the third volume of the New York Times bestselling Stormlight Archive, humanity faces a new Desolation with the return of the Voidbringers, a foe with numbers as great as their thirst for vengeance.\n"
+	},
+	{
+		"id": "3",
+		"name": "The Name of the Wind",
+		"description": "Some Description"
+	},
+	{
+		"id": "4",
+		"name": "Wise Man's Fear",
+		"description": "Some Description"
+	},
+	{
+		"id": "5",
+		"name": "Good Omens",
+		"description": "Some Description"
+	},
+	{
+		"id": "6",
+		"name": "Six of Crows",
+		"description": "Some Description"
+	},
+	{
+		"id": "7",
+		"name": "Crooked Kingdom",
+		"description": "Some Description"
+	},
+	{
+		"id": "8",
+		"name": "A Game of Thrones",
+		"description": "Some Description"
+	},
+	{
+		"id": "9",
+		"name": "A Dance With Dragons",
+		"description": "Some Description"
+	},
+	{
+		"id": "10",
+		"name": "The Winds of Winter",
+		"description": "Some Description"
+	},
+	{
+		"id": "11",
+		"name": "A Clash of Kings",
+		"description": "Some Description"
+	},
+	{
+		"id": "12",
+		"name": "A Feast for Crows",
+		"description": "Some Description"
+	}
+]
